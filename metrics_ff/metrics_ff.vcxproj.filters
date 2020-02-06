@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="File di origine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="File di risorse">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\expressions.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ff.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\inst_easy.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\inst_final.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\inst_hard.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\inst_pre.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\lex-fct_pddl.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\lex-ops_pddl.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\memory.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\output.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\parse.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\random.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\relax.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\scan-fct_pddl.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\scan-ops_pddl.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\search.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="source\times.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\expressions.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\inst_easy.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\inst_final.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\inst_hard.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\inst_pre.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\lex-fct_pddl.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\lex-ops_pddl.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\main.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\memory.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\output.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\parse.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\random.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\relax.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\scan-fct_pddl.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\scan-ops_pddl.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\search.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\times.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
